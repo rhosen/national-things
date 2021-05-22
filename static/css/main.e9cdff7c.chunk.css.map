@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Flag.css"],"names":[],"mappings":"AAAA,cACI,aAAc,CACd,gBAAiB,CACjB,iBAAkB,CAClB,SAAU,CACV,wBAA2B,CAC3B,WACJ","file":"main.e9cdff7c.chunk.css","sourcesContent":[".natinal-flag{\r\n    display: block;\r\n    margin-left: auto;\r\n    margin-right: auto;\r\n    width: 50%;\r\n    border: 1px solid lightgray;\r\n    padding: 5px;\r\n}"]}
