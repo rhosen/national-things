@@ -1,6 +1,6 @@
 ## About
 
-When user selects a country from dropdown that country's flag appears on the ui
+Lets the user choose a country and show that country's national flag.
 
 
 ## Demo
